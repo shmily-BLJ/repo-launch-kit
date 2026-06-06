@@ -1,0 +1,11 @@
+{
+  "productName": "Repo Launch Kit",
+  "repoUrl": "https://github.com/you/repo-launch-kit",
+  "oneLiner": "Turn a repo into bilingual launch and sales assets.",
+  "targetUser": "Indie hackers, AI builders, and developers preparing a first paid launch.",
+  "problem": "Makers can build a useful repo but often get stuck writing launch copy, sales pages, and platform-specific posts.",
+  "features": "Bilingual launch copy, GitHub README draft, Product Hunt and Uneed posts, Gumroad page copy, Hugging Face demo blurb, exportable checklist.",
+  "pricing": "$9 early-bird, then $19",
+  "launchDate": "Next Friday",
+  "languageMode": "bilingual"
+}
