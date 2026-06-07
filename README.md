@@ -128,12 +128,21 @@ Language: Bilingual English and Chinese
 
 ## Download Package Includes / 下载包包含
 
+- Buyer start guide / 买家入门说明
 - Local web app / 本地网页工具
 - Setup guide / 安装说明
 - Example input / 示例输入
 - Example output / 示例输出
 - Bilingual launch checklist / 中英双语发布清单
 - AI provider configuration notes / AI 提供商配置说明
+
+Useful docs:
+
+- [Buyer Start Here](./BUYER-START-HERE.md)
+- [AI Provider Configuration Guide](./docs/provider-config-guide.md)
+- [Launch Checklist](./docs/launch-checklist-zh-en.md)
+- [Platform Copy](./docs/platform-copy.md)
+- [v0.1.0 Release Notes](./docs/release-notes-v0.1.0.md)
 
 ## Tests / 测试
 
@@ -149,4 +158,3 @@ npm run build
 - More templates for Ko-fi, Afdian, MBD, Gumroad, Product Hunt, and Uneed
 - Better one-click export package
 - More example launch packages
-
